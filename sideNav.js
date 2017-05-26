@@ -2,7 +2,7 @@
 	* "SideNav" - Navigation Plugin
 	* Developed by, Brandon Tiehen
 	* NOTE: Edit your HTML classes or the classes/id's written in this script to match your needs.
-	* CSS included in zip at github.com/brandontiehen
+	* CSS included at: github.com/brandontiehen/JavaScript/tree/sideNav.js
 */
 function openNav(){
 	document.getElementById("menu").style.width="285px";
